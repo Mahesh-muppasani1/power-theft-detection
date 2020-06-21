@@ -1,3 +1,11 @@
+/*
+This is the program for the 2-way communication using a gsm module 
+one at sender side and the other at receiving side.
+The code should be dumped via a microcontroller or a processor 
+that is already connected through a GSM module.
+*/
+
+
 public class CommSetting
 {
     public static int Comm_Port=0;
